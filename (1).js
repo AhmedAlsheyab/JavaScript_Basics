@@ -13,7 +13,7 @@ else {
     console.log("Why did not " + A + " go ?");
 }
 
-const Ahmed = "160 centimeters", Sara = "157 centimeters";
+const Ahmed = "165 centimeters", Sara = "157 centimeters";
 if (Ahmed>Sara)
     console.log("Ahmed is taller than Sara");
 else
